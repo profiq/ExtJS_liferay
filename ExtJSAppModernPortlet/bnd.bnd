@@ -1,0 +1,4 @@
+Bundle-Name: ExtJSAppModernPortlet
+Bundle-SymbolicName: com.sample.extjsappmodern
+Bundle-Version: 1.0.0
+Export-Package: com.sample.extjsappmodern.constants
